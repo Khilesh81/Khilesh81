@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28168289/README.md)
+[README (1).md](https://github.com/user-attachments/files/28168331/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:1a1a4e,100:0d0d3d&height=200&section=header&text=Khilesh&fontSize=80&fontColor=c8d6f0&animation=fadeIn&fontAlignY=40&desc=✦%20Front-End%20Developer%20%7C%20UI%20Craftsman%20✦&descAlignY=65&descSize=18&descColor=8899cc" width="100%"/>
@@ -60,36 +60,31 @@ const khilesh = {
 
 ## ✨ Skills Progress
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
-**🎨 Frontend**
-```
-HTML5          ████████████░░  90%
-CSS3           ███████████░░░  85%
-JavaScript     █████████░░░░░  70%
-React.js       ████████░░░░░░  60%
-Tailwind CSS   █████████░░░░░  75%
-Responsive     ██████████░░░░  80%
-```
+### 🎨 Frontend
+| Skill | Level | Progress |
+|:---:|:---:|:---:|
+| HTML5 | 🟢 Expert | `██████████████████░░` 90% |
+| CSS3 | 🟢 Expert | `█████████████████░░░` 85% |
+| Responsive Web | 🟢 Expert | `████████████████░░░░` 80% |
+| Tailwind CSS | 🔵 Strong | `███████████████░░░░░` 75% |
+| JavaScript | 🔵 Strong | `██████████████░░░░░░` 70% |
+| React.js | 🔵 Growing | `████████████░░░░░░░░` 60% |
 
-</td>
-<td valign="top" width="50%">
+### ⚙️ Tools & Others
+| Skill | Level | Progress |
+|:---:|:---:|:---:|
+| VS Code | 🟢 Expert | `█████████████████░░░` 85% |
+| Git / GitHub | 🔵 Strong | `█████████████░░░░░░░` 65% |
+| Figma / UI/UX | 🟡 Growing | `███████████░░░░░░░░░` 55% |
+| Python | 🟡 Growing | `██████████░░░░░░░░░░` 50% |
+| Streamlit | 🟠 Learning | `█████████░░░░░░░░░░░` 45% |
+| Node.js | 🟠 Learning | `██████░░░░░░░░░░░░░░` 30% |
 
-**⚙️ Tools & Others**
-```
-Git / GitHub   ████████░░░░░░  65%
-Python         ██████░░░░░░░░  50%
-Streamlit      █████░░░░░░░░░  45%
-Figma / UI/UX  ███████░░░░░░░  55%
-VS Code        ███████████░░░  85%
-Node.js        ████░░░░░░░░░░  30%
-```
+**Legend:** 🟢 Expert (80%+) &nbsp;·&nbsp; 🔵 Strong (65–79%) &nbsp;·&nbsp; 🟡 Growing (50–64%) &nbsp;·&nbsp; 🟠 Learning (<50%)
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
