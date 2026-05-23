@@ -1,87 +1,138 @@
+[README.md](https://github.com/user-attachments/files/28168289/README.md)
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khilesh&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Front-End%20Developer%20%7C%20UI%20Craftsman&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a2e,50:1a1a4e,100:0d0d3d&height=200&section=header&text=Khilesh&fontSize=80&fontColor=c8d6f0&animation=fadeIn&fontAlignY=40&desc=✦%20Front-End%20Developer%20%7C%20UI%20Craftsman%20✦&descAlignY=65&descSize=18&descColor=8899cc" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+fast+%26+beautiful+web+experiences+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+%7C+React;Turning+ideas+into+pixel-perfect+UIs+%F0%9F%8E%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=8BA8E0&center=true&vCenter=true&width=700&lines=🌙+Crafting+pixel-perfect+web+experiences;⭐+HTML+%7C+CSS+%7C+JavaScript+%7C+React;🚀+Turning+ideas+into+stunning+UIs;💫+Always+learning%2C+always+building;🌌+Open+to+collabs+%26+new+opportunities" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Socials -->
-![Profile Views](https://komarev.com/ghpvc/?username=Khilesh81&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Khilesh81&color=5b7fba&style=for-the-badge&label=✦+VISITORS)
+&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Khilesh81?style=for-the-badge&color=5b7fba&labelColor=0a0a2e&label=Followers)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" width="280" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kix5abitof.gif" alt="coding gif" />
 
-```javascript
+## 🌙 About Me
+
+```js
 const khilesh = {
-  name:        "Khilesh",
-  role:        "Front-End Developer",
-  focus:       ["Accessibility", "Performance", "User Experience"],
-  currentlyBuilding: "Fast, beautiful & user-friendly web apps",
-  learning:    ["React.js", "Tailwind CSS", "Python / Streamlit"],
-  funFact:     "I believe great UI is felt, not just seen 🎯",
-  openTo:      "Collaborations, internships & freelance projects"
+  name     : "Khilesh",
+  role     : "Front-End Developer",
+  location : "India 🇮🇳",
+  passion  : ["Accessibility", "Performance", "UI/UX"],
+  building : "Fast, beautiful & modern web apps",
+  learning : ["React.js", "Tailwind CSS", "Python"],
+  funFact  : "Great UI is felt, not just seen 🌙",
+  openTo   : "Collabs · Internships · Freelance"
 };
 ```
 
+<br clear="right"/>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛸 Tech Stack & Skills
+
+### 🎨 Frontend Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
+</p>
+
+### 📊 Data & Backend (Learning)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,streamlit,nodejs&theme=dark" />
+</p>
+
+---
+
+## ✨ Skills Progress
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
+```
+HTML5          ████████████░░  90%
+CSS3           ███████████░░░  85%
+JavaScript     █████████░░░░░  70%
+React.js       ████████░░░░░░  60%
+Tailwind CSS   █████████░░░░░  75%
+Responsive     ██████████░░░░  80%
+```
+
+</td>
+<td valign="top" width="50%">
+
+**⚙️ Tools & Others**
+```
+Git / GitHub   ████████░░░░░░  65%
+Python         ██████░░░░░░░░  50%
+Streamlit      █████░░░░░░░░░  45%
+Figma / UI/UX  ███████░░░░░░░  55%
+VS Code        ███████████░░░  85%
+Node.js        ████░░░░░░░░░░  30%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌌 Featured Projects
 
 <div align="center">
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+| 🚀 Project | 🌙 Description | ⭐ Tech |
+|:---|:---|:---:|
+| [**🎵 Spotify Clone**](https://github.com/Khilesh81/Spotify-Clone) | Music player · dark UI · audio controls · playlists | `HTML` `CSS` `JS` |
+| [**🪟 Microsoft Clone**](https://github.com/Khilesh81/Microsoft-clone) | Pixel-perfect Microsoft homepage replica | `HTML` `Tailwind CSS` |
+| [**⚡ Teknix**](https://github.com/Khilesh81/Teknix-) | Modern React app with clean Tailwind design | `React` `Tailwind` |
+| [**📊 Smart Retail Dashboard**](https://github.com/Khilesh81/Smart-retail-dashboard) | KPI dashboards · inventory · billing analytics | `Python` `Streamlit` |
+| [**🌐 Web Project 1**](https://github.com/Khilesh81/Web-Project-1) | Foundational frontend skills showcase | `HTML` `CSS` `JS` |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 📡 GitHub Stats
 
 <div align="center">
 
-| 🎵 Project | 💡 Description | 🛠 Stack |
-|:---:|:---:|:---:|
-| [**Spotify Clone**](https://github.com/Khilesh81/Spotify-Clone) | Music player with dark UI, audio controls & playlists | `HTML` `CSS` `JS` |
-| [**Microsoft Clone**](https://github.com/Khilesh81/Microsoft-clone) | Pixel-perfect Microsoft homepage clone | `HTML` `Tailwind CSS` |
-| [**Teknix**](https://github.com/Khilesh81/Teknix-) | Modern React app with Tailwind CSS | `React` `Tailwind CSS` |
-| [**Smart Retail Dashboard**](https://github.com/Khilesh81/Smart-retail-dashboard) | Data-driven analytics with KPI dashboards & billing | `Python` `Streamlit` |
-| [**Web Project 1**](https://github.com/Khilesh81/Web-Project-1) | Frontend project showcasing HTML, CSS & JS skills | `HTML` `CSS` `JS` |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Khilesh81&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khilesh81&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Khilesh81&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a2e&title_color=8ba8e0&icon_color=c8d6f0&text_color=8899cc&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Khilesh81&theme=midnight-purple&hide_border=true&background=0a0a2e&ring=8ba8e0&fire=c8d6f0&currStreakLabel=8ba8e0&sideLabels=8899cc&dates=8899cc" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khilesh81&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khilesh81&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a2e&title_color=8ba8e0&text_color=8899cc&langs_count=6" />
+
+</div>
+
+---
+
+## 🌠 Contribution Constellation
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/8ba8e0/Khilesh81" width="100%" alt="Khilesh GitHub Contribution Chart" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khilesh81&bg_color=0d0d3d&color=8ba8e0&line=5b7fba&point=c8d6f0&area=true&area_color=1a1a4e&hide_border=true&radius=6" width="100%" alt="Khilesh Activity Graph" />
 
 </div>
 
@@ -90,40 +141,46 @@ const khilesh = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Khilesh81&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Khilesh81&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khilesh81&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
-## 🤝 Let's Connect
+## 🌙 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Khilesh81-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khilesh81)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+### 🚀 Let's build something amazing together!
 
 <br/>
 
-💬 **Open to collaborations, feedback, and exciting projects!**  
-📩 Feel free to reach out — let's build something amazing together.
+[![GitHub](https://img.shields.io/badge/GitHub-%40Khilesh81-0a0a2e?style=for-the-badge&logo=github&logoColor=c8d6f0&labelColor=1a1a4e)](https://github.com/Khilesh81)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a0a2e?style=for-the-badge&logo=linkedin&logoColor=c8d6f0&labelColor=1a1a4e)](https://linkedin.com/in/khilesh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-0a0a2e?style=for-the-badge&logo=firefox-browser&logoColor=c8d6f0&labelColor=1a1a4e)](https://khilesh81.github.io)
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hi!-0a0a2e?style=for-the-badge&logo=gmail&logoColor=c8d6f0&labelColor=1a1a4e)](mailto:your@email.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-0a0a2e?style=for-the-badge&logo=x&logoColor=c8d6f0&labelColor=1a1a4e)](https://twitter.com/khilesh81)
+[![Discord](https://img.shields.io/badge/Discord-Chat-0a0a2e?style=for-the-badge&logo=discord&logoColor=c8d6f0&labelColor=1a1a4e)](https://discord.com/users/khilesh81)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-0a0a2e?style=for-the-badge&logo=instagram&logoColor=c8d6f0&labelColor=1a1a4e)](https://instagram.com/khilesh81)
+
+<br/>
+
+> *"The best interface is the one that feels inevitable."* 🌙
+
+<br/>
+
+![wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d3d,50:1a1a4e,100:0a0a2e&height=140&section=footer&text=✦%20Thanks%20for%20Visiting%20✦&fontSize=24&fontColor=8ba8e0&animation=fadeIn&desc=🌙%20Keep%20building%20%7C%20Keep%20growing%20%7C%20Keep%20shining%20⭐&descSize=14&descColor=5b7fba&descAlignY=70" width="100%"/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-⭐️ **If you like my work, consider starring my repos!**
-
+  <sub>🌙 Crafted with passion under the moonlight by <a href="https://github.com/Khilesh81"><b>Khilesh</b></a> &nbsp;·&nbsp; ⭐ Star my repos if you like my work! &nbsp;·&nbsp; 🌌 Let's connect!</sub>
 </div>
